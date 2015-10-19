@@ -12,9 +12,14 @@
 
 * [Introduction](#introduction-)
 * [Usage](#usage-)
+* [Configuration](#configuration-)
 * [License](#license-)
 
 ## Introduction [&#x219F;](#table-of-contents)
+
+TBD
+
+## Configuration [&#x219F;](#table-of-contents)
 
 TBD
 
