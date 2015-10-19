@@ -8,4 +8,5 @@
                  [twitter-api "0.7.8"]
                  [seesaw "1.4.5"]
                  [ch.qos.logback/logback-classic "1.1.3"]
-                 [me.raynes/fs "1.4.6"]])
+                 [me.raynes/fs "1.4.6"]]
+  :main meep.core)
