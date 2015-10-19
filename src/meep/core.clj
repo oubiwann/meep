@@ -1,6 +1,8 @@
-(ns meep.core)
+(ns meep.core
+  (:require ;;[twitter.callbacks]
+            ;;[twitter.callbacks.handlers]
+            ;;[twitter.api.restful]
+            [meep.util])
+  (:import [twitter.callbacks.protocols SyncSingleCallback]))
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+
