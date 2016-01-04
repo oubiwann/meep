@@ -8,7 +8,7 @@ Like Twitter's desktop client, Meep will use vertical columns. However, unlike t
 |----|----|----|----|----|----|----|
 |    |    |    |    |    |    |    |
 |    |    |    |    |    |    |    |
-...                                |
+|...                               |
 +----+----+----+----+----+----+----+
 ```
 

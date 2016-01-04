@@ -1,9 +1,10 @@
 # todo
 
+
 ## simple architecture
 
 ~/.meep/creds.clj - auth into
-  * 
+  *
 
 ~/.meep/columns.clj - define the columns that are displayed in the UI
   * a list of entries
@@ -12,9 +13,10 @@
     in the column)
 
 ~/.meep/style.clj - styling info (e.g., column width, font size)
-  * 
+  *
 
-## Components
+
+## components
 
 * status update
   * retweet button/icon
@@ -23,3 +25,9 @@
   * renders images and links in-line (can disable in style.clj)
   * provide status update metadata in collapsed tree (expand to read)
 * column
+
+
+# ui dev
+
+* Add column with working verticall scroll
+* Add second column, expanding the app-panel from one to two columns
